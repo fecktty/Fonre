@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rules FriendlyName="Custom FxCop Rules By ZhW">
+  <Rule TypeName="FonreFxCopRule" Category="Warn" CheckId="CR1111">
+    <Name>FonreFxCopRule</Name>
+    <Description>Analysis potential NullReferenceException without not-null check</Description>
+    <Resolution>A potential NullReferenceException.{0}, Please check it</Resolution>
+    <MessageLevel Certainty="100">Warning</MessageLevel>
+    <FixCategories>NonBreaking</FixCategories>
+    <Url />
+    <Owner>zhouwei</Owner>
+    <Email />
+  </Rule>
+</Rules>
