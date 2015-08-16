@@ -1,4 +1,3 @@
-C:\git\Fonre\FonreFxCopRule\obj\Debug\FonreFxCopRule.csprojResolveAssemblyReference.cache
 C:\git\Fonre\FonreFxCopRule\bin\Debug\FonreFxCopRule.dll
 C:\git\Fonre\FonreFxCopRule\bin\Debug\FonreFxCopRule.pdb
 C:\git\Fonre\FonreFxCopRule\bin\Debug\FxCopSdk.dll
@@ -10,3 +9,4 @@ C:\git\Fonre\FonreFxCopRule\bin\Debug\zh-Hans\Microsoft.Cci.resources.dll
 C:\git\Fonre\FonreFxCopRule\bin\Debug\zh-Hans\Microsoft.VisualStudio.CodeAnalysis.Common.resources.dll
 C:\git\Fonre\FonreFxCopRule\obj\Debug\FonreFxCopRule.dll
 C:\git\Fonre\FonreFxCopRule\obj\Debug\FonreFxCopRule.pdb
+C:\git\Fonre\FonreFxCopRule\obj\Debug\FonreFxCopRule.csprojResolveAssemblyReference.cache

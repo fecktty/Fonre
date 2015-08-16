@@ -47,7 +47,11 @@
   <ItemGroup>
     <Compile Include="BaseFxCopRule.cs" />
     <Compile Include="FonreFxCopRule.cs" />
+    <Compile Include="FonreFxCopRuleTest.cs" />
+    <Compile Include="LocalScopeTree.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="LocalScopeStack.cs" />
+    <Compile Include="UtilityExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="FonreMetadata.xml" />
